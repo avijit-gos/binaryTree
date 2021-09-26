@@ -1,7 +1,7 @@
 # binaryTree
 Implementing Binary Tree in JavaScript
 
-## 1.Add new Node into the Tree
+##### 1.Add new Node into the Tree
 ## 2.find the Minimum value present in the Tree
 ## 3.find the Maximum value present in the Tree
 ## 4.Search a value from the Tree
